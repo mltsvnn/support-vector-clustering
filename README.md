@@ -28,7 +28,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # открыть ноутбук
-jupyter notebook nbs/svc_clustering_demo.ipynb
-# если использован каталог notebooks:
-# jupyter notebook notebooks/svc_clustering_demo.ipynb
+jupyter notebook notebook_files/svc_clustering_demo.ipynb
 
